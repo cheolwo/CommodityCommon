@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\CommodityCommon\\\uC0C1\uD488Common\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A04E3B00-5AA3-4F3A-95CE-54C5314FEB56}|\uC0C1\uD488Common\\\uC0C1\uD488Common.csproj|c:\\users\\user\\desktop\\commoditycommon\\\uC0C1\uD488common\\\uC0C1\uD488common\\\uC0C1\uD488dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04E3B00-5AA3-4F3A-95CE-54C5314FEB56}|\uC0C1\uD488Common\\\uC0C1\uD488Common.csproj|solutionrelative:\uC0C1\uD488common\\\uC0C1\uD488dbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A04E3B00-5AA3-4F3A-95CE-54C5314FEB56}|\uC0C1\uD488Common\\\uC0C1\uD488Common.csproj|c:\\users\\user\\desktop\\commoditycommon\\\uC0C1\uD488common\\\uC0C1\uD488common\\\uC0C1\uD488.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A04E3B00-5AA3-4F3A-95CE-54C5314FEB56}|\uC0C1\uD488Common\\\uC0C1\uD488Common.csproj|solutionrelative:\uC0C1\uD488common\\\uC0C1\uD488.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 141,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "\uC0C1\uD488.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CommodityCommon\\\uC0C1\uD488Common\\\uC0C1\uD488Common\\\uC0C1\uD488.cs",
+              "RelativeDocumentMoniker": "\uC0C1\uD488Common\\\uC0C1\uD488.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CommodityCommon\\\uC0C1\uD488Common\\\uC0C1\uD488Common\\\uC0C1\uD488.cs",
+              "RelativeToolTip": "\uC0C1\uD488Common\\\uC0C1\uD488.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:23:52.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\uC0C1\uD488DbContext.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\CommodityCommon\\\uC0C1\uD488Common\\\uC0C1\uD488Common\\\uC0C1\uD488DbContext.cs",
+              "RelativeDocumentMoniker": "\uC0C1\uD488Common\\\uC0C1\uD488DbContext.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\CommodityCommon\\\uC0C1\uD488Common\\\uC0C1\uD488Common\\\uC0C1\uD488DbContext.cs",
+              "RelativeToolTip": "\uC0C1\uD488Common\\\uC0C1\uD488DbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T01:07:11.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
